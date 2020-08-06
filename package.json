@@ -1,0 +1,12 @@
+{
+  "name": "project_watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marta12525/project_watermark.git",
+  "author": "Marta Bednarz <martab2525@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
